@@ -5,4 +5,5 @@ mas install 1484403395 1469254409 1474771319 497799835
 sudo spctl --master-disable
 defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
 defaults write -g ApplePressAndHoldEnabled -bool false
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 sudo xcodebuild -license accept
