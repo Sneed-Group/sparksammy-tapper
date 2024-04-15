@@ -5,4 +5,3 @@ sudo spctl --master-disable
 defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
 defaults write -g ApplePressAndHoldEnabled -bool false
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
-sudo xcodebuild -license accept
