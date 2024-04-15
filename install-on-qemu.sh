@@ -1,5 +1,5 @@
 brew install mas node python3 potrace imagemagick wget golang openjdk@17 gradle
-brew install --cask rectangle hiddenbar keepingyouawake dotnet-sdk vlc command-x imageoptim macs-fan-control librewolf
+brew install --cask rectangle hiddenbar keepingyouawake dotnet-sdk vlc command-x imageoptim librewolf
 sudo npm install -g cordova
 sudo spctl --master-disable
 defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
