@@ -4,7 +4,6 @@ brew install localsend
 brew install --cask toontown-rewritten shotcut darktable orion rectangle wine-stable ollama utm hiddenbar pencil2d vscodium discord keepingyouawake freetube dotnet-sdk shottr raycast vlc protonvpn command-x upscayl imageoptim android-studio android-platform-tools macs-fan-control libreoffice krita element openemu
 sudo npm install -g cordova
 mas install 1484403395 1469254409 1474771319 497799835
-sudo spctl --master-disable
 defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
 defaults write -g ApplePressAndHoldEnabled -bool false
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
