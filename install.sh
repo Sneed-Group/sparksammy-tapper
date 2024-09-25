@@ -2,7 +2,7 @@ brew install mas node python3 potrace imagemagick wget minetest golang openjdk@1
 brew tap localsend/localsend
 brew install localsend
 brew install --cask toontown-rewritten kdenlive darktable arc rectangle wine-stable ollama utm hiddenbar pencil2d visual-studio-code discord dotnet-sdk raycast vlc protonvpn command-x upscayl android-studio android-platform-tools libreoffice krita openemu
-brew install --cask github@beta
+brew install --cask github@beta inkscape
 brew install --cask nvidia-geforce-now roblox robloxstudio blender@lts
 sudo npm install -g cordova
 mas install 937984704 1469254409 1474771319 497799835 682658836
