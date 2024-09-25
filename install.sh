@@ -1,7 +1,7 @@
 brew install mas node python3 potrace imagemagick wget minetest golang openjdk@17 openjdk@21 gradle
 brew tap localsend/localsend
 brew install localsend
-brew install --cask toontown-rewritten kdenlive darktable arc rectangle wine-stable ollama utm hiddenbar pencil2d visual-studio-code discord dotnet-sdk raycast vlc protonvpn command-x upscayl android-studio android-platform-tools libreoffice krita openemu
+brew install --cask toontown-rewritten kdenlive darktable arc wine-stable ollama utm hiddenbar pencil2d visual-studio-code discord dotnet-sdk raycast vlc protonvpn command-x upscayl android-studio android-platform-tools libreoffice krita openemu
 brew install --cask github@beta inkscape
 brew install --cask nvidia-geforce-now roblox robloxstudio blender@lts
 sudo npm install -g cordova
