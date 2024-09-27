@@ -6,6 +6,7 @@ brew install --cask github@beta inkscape virtual-ii
 brew install --cask nvidia-geforce-now roblox robloxstudio blender@lts
 brew tap microsoft/git 
 brew install git-credential-manager
+git config --global --add credential.helper manager
 sudo npm install -g cordova
 mas install 937984704 1469254409 1474771319 497799835 682658836
 defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
